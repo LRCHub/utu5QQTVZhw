@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビビデバ（Instrumental）",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-02-19T12:32:22.290153Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_ビビデバ_星街すいせい.txt"
+    }
+  ]
+}
